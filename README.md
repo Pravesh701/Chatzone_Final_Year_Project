@@ -1,4 +1,4 @@
-# ABchat
+# Chatzone
 
 ## A whatsapp like Android chat application using Java, Android Studio & Firebase.
 
